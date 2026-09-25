@@ -8,6 +8,12 @@
 
 <br clear="right">
 
+## 운영 중인 사이트
+
+- [GQAI 뉴스](https://news.gqai.kr/) · 뉴스 대시보드
+- [GQAI 법안](https://bills.gqai.kr/) · 법안 정보
+- [GQAI 바이브코딩](https://vibecoding.gqai.kr/) · 바이브코딩 강의
+
 ## 만들고 있는 것
 
 | 프로젝트 | 소개 |
