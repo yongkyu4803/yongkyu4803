@@ -23,6 +23,7 @@
 | --- | --- |
 | [NA-bills-mcp](https://github.com/yongkyu4803/NA-bills-mcp) | 제22대 국회 발의 법안을 검색하고 요약·통계를 조회하는 읽기 전용 MCP 서버 |
 | [GQAI-GovtPress-mcp](https://github.com/yongkyu4803/GQAI-GovtPress-mcp) | 12개 정부기관의 보도자료 제목·발행일·원문 링크를 찾는 MCP 서버 |
+| [GQAI-editorial-mcp](https://github.com/yongkyu4803/GQAI-editorial-mcp) | 국내 35개 언론사 사설 2.3만 건을 검색하고 전문을 조회하는 읽기 전용 MCP 서버 |
 | [gqai-masking](https://github.com/yongkyu4803/gqai-masking) | 한국어 개인정보를 탐지하고 마스킹하는 로컬 웹앱 |
 | [vibe-coder-kit](https://github.com/yongkyu4803/vibe-coder-kit) | 웹앱 제작부터 배포까지 초보자를 안내하는 Claude Code 플러그인 |
 
