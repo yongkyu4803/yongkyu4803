@@ -13,9 +13,18 @@
 
 ## 운영 중인 사이트
 
-- [GQAI 뉴스](https://news.gqai.kr/) · 뉴스 대시보드
-- [GQAI 법안](https://bills.gqai.kr/) · 법안 정보
-- [GQAI 바이브코딩](https://vibecoding.gqai.kr/) · 바이브코딩 강의
+<table>
+  <tr>
+    <td width="33%"><a href="https://news.gqai.kr/"><img src="assets/banners/gqai-newslens.png" width="100%" alt="GQAI 뉴스(NewsLens) 뉴스 대시보드로 이동"></a></td>
+    <td width="33%"><a href="https://bills.gqai.kr/"><img src="assets/banners/gqai-billlens.png" width="100%" alt="GQAI 법안(BillLens) 법안 정보 사이트로 이동"></a></td>
+    <td width="33%"><a href="https://vibecoding.gqai.kr/"><img src="assets/banners/gqai-vibe-coding.png" width="100%" alt="GQAI 바이브코딩 강의 사이트로 이동"></a></td>
+  </tr>
+  <tr>
+    <td align="center">GQAI 뉴스 · 뉴스 대시보드</td>
+    <td align="center">GQAI 법안 · 법안 정보</td>
+    <td align="center">GQAI 바이브코딩 · 바이브코딩 강의</td>
+  </tr>
+</table>
 
 ## 만들고 있는 것
 

@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-08-03",
+  "installed_at": "2026-09-26",
+  "generation_mode": "OpenAI built-in imagegen (원본 생성, gqai-banner 스킬). 이 저장소에는 재생성 없이 기존 자산을 반입",
+  "asset_origin": "~/Documents/exnews-next-main/public/banners (원본: ~/2608_min_jundae/public/banners, 동일 파일)",
+  "purpose": "GitHub 프로필 README '운영 중인 사이트' 섹션의 3열 링크 배너",
+  "slot_measurement": {
+    "method": "inferred (GitHub 프로필 README 본문 폭 기준 추정, 실측 아님)",
+    "layout": "HTML 표 3열, 이미지 width=100% (셀 폭에 맞춤)",
+    "per_banner_css_px_estimate": {
+      "width": 250,
+      "height": 83,
+      "aspect_ratio": "3:1"
+    },
+    "final_asset_px": {
+      "width": 1080,
+      "height": 360,
+      "aspect_ratio": "3:1"
+    },
+    "generated_original_px": "원본 JSON에 기록 없음 — 최종 자산은 1080x360"
+  },
+  "sites": [
+    {
+      "site": "news.gqai.kr",
+      "href": "https://news.gqai.kr/",
+      "image": "assets/banners/gqai-newslens.png",
+      "alt": "GQAI 뉴스(NewsLens) 뉴스 대시보드로 이동",
+      "prompt": "Use case: ads-marketing\nAsset type: clickable website banner for news.gqai.kr\nPrimary request: create a premium ultra-wide 3:1 banner for a Korean public-policy news intelligence service.\nScene/backdrop: deep royal blue to cobalt gradient.\nSubject: abstract institutional dome silhouette, neatly layered news cards, a document sheet, a small bar chart, connected data nodes, and a subtle circular lens motif; all visual elements clustered on the right half.\nStyle/medium: polished editorial vector illustration blended with restrained soft 3D, sophisticated public-sector SaaS aesthetic.\nComposition/framing: exact 3:1 ultra-wide composition; keep the left half calm and uncluttered for the title; keep every important element inside a generous safe area for rounded-corner cropping.\nLighting/mood: trustworthy, precise, fast, modern.\nColor palette: royal blue, cobalt, white, tiny warm gold accents.\nText (verbatim): GQAI NewsLens\nTypography: render the exact title once, large clean bold sans-serif in white, left aligned; no other words or characters.\nConstraints: text must be exactly correct; no extra text; no logos other than the title; no people; no politician faces; no flags; no party symbols; no watermark; no mockup frame."
+    },
+    {
+      "site": "bills.gqai.kr",
+      "href": "https://bills.gqai.kr/",
+      "image": "assets/banners/gqai-billlens.png",
+      "alt": "GQAI 법안(BillLens) 법안 정보 사이트로 이동",
+      "prompt": "Use case: ads-marketing\nAsset type: clickable website banner for bills.gqai.kr\nPrimary request: create a premium ultra-wide 3:1 banner for a Korean legislative bill search service.\nScene/backdrop: elegant mint-to-deep-teal gradient.\nSubject: a tidy stack of bill documents, a round search lens highlighting one document, small abstract classification chips and connecting lines; cluster the objects on the right half.\nStyle/medium: clean vector-based soft 3D illustration, restrained glass accents, professional legal-research SaaS aesthetic.\nComposition/framing: exact 3:1 ultra-wide composition; keep the left half calm and uncluttered for the title; safe margins for rounded-corner cropping.\nLighting/mood: clear, accurate, calm, trustworthy.\nColor palette: mint, teal, forest green, white.\nText (verbatim): GQAI BillLens\nTypography: render the exact title once, large clean bold sans-serif in white, left aligned; no other words or characters.\nConstraints: text must be exactly correct; no extra text; no seals, emblems, courthouse, gavel, scales, people, political symbols, logos other than the title, or watermark; no mockup frame."
+    },
+    {
+      "site": "vibecoding.gqai.kr",
+      "href": "https://vibecoding.gqai.kr/",
+      "image": "assets/banners/gqai-vibe-coding.png",
+      "alt": "GQAI 바이브코딩 강의 사이트로 이동",
+      "prompt": "Use case: ads-marketing\nAsset type: clickable website banner for vibecoding.gqai.kr\nPrimary request: create a premium ultra-wide 3:1 banner for a friendly practical AI coding education site.\nScene/backdrop: warm ivory paper-like background with subtle editorial texture.\nSubject: on the right half, a small laptop with abstract code blocks, database cylinder, API connection nodes, and a tiny star-shaped AI agent object arranged like a curated creative desk.\nStyle/medium: refined editorial collage mixed with soft clay 3D objects and thin black ink lines; sophisticated magazine design, playful but not childish.\nComposition/framing: exact 3:1 ultra-wide composition; keep the left half spacious for the title; safe margins for rounded-corner cropping.\nLighting/mood: warm natural light, creative, approachable, hands-on.\nColor palette: warm ivory, charcoal black, pale lilac, dusty pink, soft mint.\nText (verbatim): GQAI Vibe Coding\nTypography: render the exact title once, large elegant high-contrast serif in charcoal black, left aligned; no other words or characters.\nConstraints: text must be exactly correct; no extra text; no code characters; no people; no hacker imagery; no robot face; no logos other than the title; no watermark; no mockup frame."
+    }
+  ]
+}
