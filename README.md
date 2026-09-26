@@ -1,6 +1,4 @@
-<img align="right" width="380" src="assets/public-data-tools.png" alt="문서, 정부 발표, 개인정보 보호, 개발 도구가 검색으로 연결되는 일러스트">
-
-# 코딩하는 보좌관입니다 👋
+<h1>코딩하는 보좌관입니다 👋 <img align="right" width="380" src="assets/public-data-tools.png" alt="문서, 정부 발표, 개인정보 보호, 개발 도구가 검색으로 연결되는 일러스트"></h1>
 
 **입법데이터를 더 쉽게 찾고 활용하는 AI 도구를 만듭니다.**
 
