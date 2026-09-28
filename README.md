@@ -16,7 +16,7 @@
     <td width="25%" valign="middle"><a href="https://www.youtube.com/watch?v=G8Bw9eMs2ms&amp;list=PL7d4-rFjtYdLYEmDJfm0OcY_I08Cv7lIF&amp;index=4&amp;t=1013s"><img src="https://i.ytimg.com/vi/G8Bw9eMs2ms/hqdefault.jpg" width="260" alt="티타임즈TV 인터뷰 영상 보기"></a></td>
     <td width="75%" valign="middle">
       <strong>“종일 뉴스, 법안 보는 내가 한심해서 만들었죠”</strong><br><br>
-      국회의원 보좌관의 반복 업무를 직접 AI 도구로 바꾸게 된 이야기.<br><br>
+      전 국회의원 보좌관의 국회의원실의 반복 업무를 직접 AI 도구로 바꾸게 된 이야기.<br><br>
       <a href="https://www.youtube.com/watch?v=G8Bw9eMs2ms&amp;list=PL7d4-rFjtYdLYEmDJfm0OcY_I08Cv7lIF&amp;index=4&amp;t=1013s">▶ 티타임즈TV 인터뷰 보기</a>
     </td>
   </tr>
