@@ -9,6 +9,9 @@
 
 <br clear="right">
 
+## 유투브 영상 
+https://www.youtube.com/watch?v=G8Bw9eMs2ms&list=PL7d4-rFjtYdLYEmDJfm0OcY_I08Cv7lIF&index=4&t=1013s
+
 ## 운영 중인 사이트
 
 <table>
